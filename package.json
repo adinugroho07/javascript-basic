@@ -1,0 +1,11 @@
+{
+  "name": "belajar-javascript-dasar",
+  "version": "1.0.0",
+  "description": "belajar javascript dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi nugroho",
+  "license": "ISC"
+}
